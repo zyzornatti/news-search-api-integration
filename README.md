@@ -1,1 +1,1 @@
-# news-search-api-intergration
+# news-search-api-integration
